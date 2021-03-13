@@ -1,0 +1,43 @@
+<SENTENCE NAME="coorelated sentences" no="1" TYPE="15">
+	<MAIN>
+		<SNOUN NAME="x" TYPE="personified" />
+		<VERB NAME="x" ECLASS="marryclass" />
+		<ONOUN NAME="x" TYPE="personified" />
+	</MAIN>
+	<CONJ NAME="as-because" />
+	<SUB>
+		<PRO TYPE="personified" />
+		<VBZ TYPE="is" />
+		<VERBP ADVDEGREE="very" ADJECTIVE="x" TYPE="personified" />
+	</SUB>	
+	<SUB2>
+		<PRO TYPE="PLURAL" />
+		<VERB NAME="x" ECLASS="interactionpositive" />
+		<PREP TYPE="x" />
+		<RECIPROCALPRONOUN TYPE="each other-one another" />
+	</SUB2>	
+	<SUB3>
+		<PRO TYPE="PLURAL" />
+		<VERB NAME="x" ECLASS="interactionnegative" />
+		<PREP TYPE="x"/>
+		<RECIPROCALPRONOUN TYPE="each other-one another" />
+	</SUB3>	
+	<SUB4>
+		<ADVT NAME="x" TYPE="infinitetime" />
+		<PRO TYPE="PLURAL" />
+		<VERBP>
+			<VERB NAME="x" ADV="x" ECLASS="mconclusionclassp" />
+			
+
+		</VERBP>
+	</SUB4>
+	<SUB5>
+		<ADVT NAME="x" TYPE="infinitetime" />
+		<PRO TYPE="PLURAL"/>
+		<VERBP>
+			<VERB NAME="x" ADV="x" ECLASS="mconclusionclassn" />
+			
+		</VERBP>
+	</SUB5>
+		
+</SENTENCE>

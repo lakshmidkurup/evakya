@@ -1,0 +1,20 @@
+Question Marks or Exclamation Points in Quotations
+If a question or exclamation is quoted directly, the quotation contains the question mark or exclamation point.
+
+If the question or exclamation is at the end of the quotation, the question mark or exclamation point comes before the closing quotation mark.
+
+Incorrect: "Look at that"! he exclaimed. "Did you see that"?
+Correct: "Look at that!" he exclaimed. "Did you see that?"
+(Question mark or exclamation point comes before quotation mark.)
+
+A question mark can be found outside the quotation mark if the sentence is asking about a quotation, but the quotation itself is not a question.
+
+Incorrect: Did Mark Antony say, "Friends, Romans, countrymen?"
+(A question is not being quoted. The speaker is asking about a quotation.)
+Correct: Did Mark Antony say, "Friends, Romans, countrymen"?
+
+In the rare case where the question is about a quotation ending in a question, the sentence ends with a single question mark before the quotation mark.
+
+Incorrect: Who said, "Et tu, Bruté?"?
+(Second question mark redundant)
+Correct: Who said, "Et tu, Bruté?"

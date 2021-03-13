@@ -1,0 +1,7 @@
+<SENTENCE NO="1"  TYPE="ACRONYMSTATE" >
+    <DET NAME="The" />
+    <SNOUN TYPE="acronym" PREP="of" NAME="state " />
+    <VERBPHRASE>
+        <VERB NAME="x" PREP="x" ONOUN="x" VCLASS="map"/>
+    </VERBPHRASE>
+</SENTENCE>

@@ -1,0 +1,8 @@
+personified:James:man:gentleman:orator:
+personified:John:man:gentleman:orator:
+personified:Alice:woman:lady:orator:
+personified:Mary:woman:lady:orator:
+cookable:dish:
+readable:book:
+winnable:match:
+winnable:race:

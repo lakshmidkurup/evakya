@@ -1,0 +1,49 @@
+<SENTENCE_STRUCTURE>
+	<SENTENCE NO="1" TYPE="1">
+                <NAME>Independent Clause</NAME>
+		<MAIN>   
+			<SUBJECT>
+                                
+				<MAIN_SUBJECT>
+					<NOUN NAME="x" TYPE="personified"></NOUN>
+				</MAIN_SUBJECT>
+			</SUBJECT>
+			<PREDICATE>
+                                <VERB>
+				        <VERBWORD TYPE="bought"></VERBWORD>
+					
+				</VERB>
+				<MAIN_OBJECT> 
+					<NOUN TYPE="x"> 
+					<CARDINALITY TYPE="3"></CARDINALITY>
+					<ADJECTIVE TYPE="any"></ADJECTIVE>
+                                        </NOUN>
+				</MAIN_OBJECT>
+							
+		        </PREDICATE>
+		</MAIN>
+
+		<NAME>subordinating conjunction</NAME>
+		<SUBCONJ>
+			<SUBORDINATECONJ CASE="2" TYPE="and">
+			</SUBORDINATECONJ> 
+		</SUBCONJ>
+
+		<NAME>DEPENDENT VERB CLAUSE</NAME> 
+		<SUBCLAUSE>
+                	<DEPVERB>
+				<VERBWORD TYPE="gave"></VERBWORD>
+				<PRONOUN TYPE="any"></PRONOUN>
+				<PREPOSITION TYPE="any"></PREPOSITION>	
+				<PERSONALPR TYPE="any"></PERSONALPR>
+			</DEPVERB>
+			<DEP_OBJECT> 
+				<NOUN TYPE="any"></NOUN>
+				<CARDINALITY TYPE="3"></CARDINALITY>
+				<ADJECTIVE TYPE="any"></ADJECTIVE>
+                        </DEP_OBJECT>
+		</SUBCLAUSE>
+	</SENTENCE>
+</SENTENCE_STRUCTURE>
+
+			

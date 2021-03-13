@@ -1,0 +1,14 @@
+<SENTENCE NAME="quotation sentences" no="2" TYPE="15">
+	<DIALOGTAG>
+		<SNOUN NAME="x" TYPE="personified" />
+		<VERB NAME="x" ADVERB="X" VCLASS="answerable" />
+	</DIALOGTAG>
+	<CLAUSE>
+		<SNOUN PPRO="I" TYPE="personified" />
+		<NEG TYPE="not-n't" />
+		<VERB NAME="x" VCLASS="any" TENSE="PRESENT"/>
+		<ONOUN NAME="x" PREP="x" ART="the" TYPE="VCLASS" />
+	</CLAUSE>
+
+</SENTENCE>
+

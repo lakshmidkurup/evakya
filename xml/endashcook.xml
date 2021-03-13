@@ -1,0 +1,6 @@
+<SENTENCE TYPE="EN-DASH" >
+    <SNOUN NAME="x" TYPE="personified" />
+    <VERB NAME="x" VCLASS="cookable" />
+    <TIMEHRS RANGE="2-3" MEASURE="hrs" />
+    <ADJ NAME="daily/per day" />
+</SENTENCE>

@@ -1,0 +1,5 @@
+<SENTENCE NO="4" TYPE="22" NAME="RHETORICAL" >
+    <EXCLAMATION EXSENT="Look at that" />
+    <CLAUSE SNOUN="x" TYPE="personified" VERB="exclaimed" />
+    <RHETORICAL QTAG="Did" PRO="you" VERB="know" /> 	
+</SENTENCE>

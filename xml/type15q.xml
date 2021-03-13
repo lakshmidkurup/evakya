@@ -1,0 +1,12 @@
+<SENTENCE NAME="quotation sentences" no="2" TYPE="15">
+	<DIALOGTAG>
+		<SPRO NAME="x" TYPE="personified" />
+		<tagverb NAME="x" ECLASS="marryclass" />
+	</DIALOGTAG>
+	<CLAUSE>
+		<PPRO NAME="I" TYPE="personified" />
+		<VERB NAME="x" ECLASS="marryclass" />
+		<ONOUN NAME="x" TYPE="personified" />
+	</CLAUSE>
+
+</SENTENCE>

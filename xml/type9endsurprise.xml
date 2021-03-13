@@ -1,0 +1,7 @@
+<SENTENCE NAME="Surprise(end of the sentence)" NO="6" TYPE="9">
+	<CONJ NAME="So" />
+	<SNOUN CHOICE="1" NAME="x" PRO ="x" TYPE="personified" />
+	<VERB NAME="x" HVERB="could" NEGATION="not" ECLASS="neutral" />
+	<INTERJECTION NAME="x" EMOTION="Surprise" />
+	<ONOUN NAME="x" DET="x" CLASS="verbclass" />		
+</SENTENCE> 

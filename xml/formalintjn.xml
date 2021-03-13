@@ -1,0 +1,10 @@
+<SENTENCE No="23" NAME="FORMAL STATEMENTS">
+    <ADDTAG TAG="Dear" ABBR="x" SNOUN="x" TYPE="personified"/>
+    <CLAUSE1 PPRO="I" VBZ="am" VERB="happy" />
+    <CONJPHRASE PREP="to" VERB="inform" SPRO="you" CONJ="that"/>
+    <CLAUSE2>
+        <SNOUN NAME="x" TYPE="personified"/>
+        <VERBP HVERB="has" VERB="x" ECLASS="positive" />
+        <ONOUNP SNAME="x" TYPE="personified" DET="the" ONAME="x" />
+     </CLAUSE2>
+</SENTENCE>

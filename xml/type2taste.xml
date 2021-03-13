@@ -1,0 +1,32 @@
+<SENTENCE NAME="COMPOUND" NO="1" TYPE="2">
+	<MAINCLAUSE>
+		<SUBJECTNOUNPHRASE>
+				
+			<SNOUN NAME="x" TYPE="personified" />
+			<SARTICLE NAME="x" />
+			<SADJECTIVEPHRASE>
+				<SADJECTIVE NAME="x" TYPE="personified" />
+				<SCNOUN NAME="x" />		
+			</SADJECTIVEPHRASE>				
+		</SUBJECTNOUNPHRASE>
+		<VERBPHRASE>
+			<HELPINGVERB NAME="x" />
+			<VERB VNAME="taste" /> 
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE> 
+			<ONOUN CLASS="drinkable" NAME="x" />
+			<OARTICLE NAME="x" />
+			<OADJECTIVEPHRASE>
+				<OADJECTIVE CLASS="drinkable" NAME="x" />
+				<ONOUN CLASS="drinkable" NAME="x" />		
+			</OADJECTIVEPHRASE>
+		</OBJECTNOUNPHRASE> 
+	</MAINCLAUSE>
+	<COORDCONJ NAME="but" />
+	<SUBCLAUSE>
+		<NEGHELPINGVERB NAME="x" />
+		<COVERB VNAME="gulp" /> 
+		<PRONOUN CLASS="drinkable" NAME="x" />
+	</SUBCLAUSE>
+		
+</SENTENCE>

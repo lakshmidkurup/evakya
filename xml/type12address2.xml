@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SENTENCE NAME="Address" NO="2" TYPE="12">
+	<MAIN>
+		<SNOUN NAME="x" TYPE="personified" />
+		<VERB NAME="x" ECLASS="address" />
+		<ONOUN PREP="x" ART="x" NAME="x" />
+	</MAIN>
+	<SUB>
+		<SPRO NAME="x"/>
+		<NOUN NAME="eclass" VBZ="is" />
+		<ADDRESS NAME="x" BNAME="x" FLATNO="x" WING="x" LANDMARK="" SOCIETYNAME="x" ROAD="x" STREET="x" LOCATION="x" CITY="x" STATE="x" PINCODE="x" />
+	</SUB>
+</SENTENCE>

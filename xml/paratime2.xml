@@ -1,0 +1,7 @@
+<SENTENCE TYPE="paranthesis with timezone" >
+    <PRO NAME="They" />
+    <VERB NAME="x" VCLASS="interactionpositive" />
+    <PREP NAME="x" />
+    <SNOUN NAME="x" TYPE="personified" />
+    <TIMEZONE TYPE="EST" PREP="at"/>
+</SENTENCE>

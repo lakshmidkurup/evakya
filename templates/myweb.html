@@ -1,0 +1,127 @@
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 1000px; /* Should be removed. Only for demonstration */
+  
+}
+
+.left {
+  width: 30%;
+  top: 200px; 
+  border-right: double;
+}
+
+
+.right {
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  border-left: 1px solid #000;
+  display: table;
+  clear: both;
+}
+#sidenav a{
+  text-decoration:none;
+  font-size:20px;
+  color:black;
+  position:absolute;
+  border-radius:10px 10px 10px 10px;
+  border-style: solid;
+  border-top-color: blue;
+  border-left-color: blue;
+  border-right-color: blue;
+  border-bottom-color: blue;
+  transition:0.3s;
+  border:2px solid #black;
+  
+  width:140px;
+  margin-left:100px;
+}
+i{
+ padding-right:10px;
+ padding-left:10px
+ 
+}
+  
+
+#Fullstop{
+ 
+  top:200px;
+  background-image: linear-gradient(120deg,#F39C12 0%, #F39C12 100%);
+}
+
+#Comma{
+ 
+  top:250px;
+  background-image: linear-gradient(120deg,#F39C12 0%, #F39C12 100%);
+}
+#Semicolon{
+ 
+  top:300px;
+  background-image: linear-gradient(120deg, #F39C12 0%, #F39C12 100%);
+}
+#Colon{
+  top:350px;
+  background-image: linear-gradient(to top, #F39C12 0%, #F39C12 100%);
+}
+#Quotation{
+  top:400px;
+  background-image: linear-gradient(to top, #F39C12 0%, #F39C12 100%);
+}
+#Hyphen{
+  top:450px;
+  background-image: linear-gradient(to top, #F39C12 0%, #F39C12 100%);
+}
+.circles {
+  display: flex;
+}
+.circle-with-text {
+  background: linear-gradient(orange, red);
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  text-align: center;
+  margin: 5px 20px;
+  font-size: 15px;
+  padding: 15px;
+  display: flex;
+  height: 100px;
+  width: 100px;
+  color: #fff;
+}
+</style>
+</head>
+<body>
+<div class="row">
+<div class="column left" style="background-color:white;">
+<div class="container">
+<div class="side-menu" id="sidenav">
+  <a href="#" id="Fullstop">Fullstop<i class="fa fa-eercast" aria-hidden="true"></i></a>
+  <a href="#" id="Comma">Comma<i class="fa fa-bullhorn" aria-hidden="true"></i></a>
+  <a href="#" id="Semicolon">Semicolon<i class="fa fa-heart-o" aria-hidden="true"></i></a>  
+  <a href="#" id="Colon">Colon<i class="fa fa-heart-o" aria-hidden="true"></i></a>
+  <a href="#" id="Quotation">Quotation<i class="fa fa-heart-o" aria-hidden="true"></i></a>
+  <a href="#" id="Hyphen">Hyphen<i class="fa fa-info-circle" aria-hidden="true"></i></a>
+
+</div><!-- closing of sidemenu-->
+</div><!-- container-->
+</div>
+</div>
+<div class="circles">
+ <div class="circle-with-text">Here is some text in circle</div>
+</div>	
+</body>
+</html> 

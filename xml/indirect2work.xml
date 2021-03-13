@@ -1,0 +1,6 @@
+<SENENCE NO="1" TYPE="20" NAME="WHERE INDIRECT QUESTIONS" >
+    <INDIRECTTAG HVERB="Do" TPRO="you" VERB="know" />
+    <QTAG TYPE="where"/>
+    <SNOUN NAME="x" TYPE="personified" />
+    <PRESENTVERB NAME="x" VCLASS="workplace" />
+</SENENCE>

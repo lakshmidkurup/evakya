@@ -1,0 +1,14 @@
+<SENTENCE NAME="that" NO="1" TYPE="13">
+	<MAIN>
+		<SNOUN NAME="x" TYPE="personified" />
+		<VERB NAME="x" ADVERB="X" VCLASS="answerable" />
+	</MAIN>
+	<CONJ TYPE="that" />
+	<SUB>
+		<SNOUN PRO="x" TYPE="personified" />
+		<NEG TYPE="not-n't" />
+		<VERB NAME="x" VCLASS="any" TENSE="PRESENT"/>
+		<ONOUN NAME="x" PREP="x" ART="the" TYPE="VCLASS" />
+	</SUB>
+		
+</SENTENCE>	

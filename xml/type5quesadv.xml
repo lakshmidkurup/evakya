@@ -1,0 +1,9 @@
+<SENTENCE NAME="Negative Adverbs like Scarcely,hardly,seldom" NO="2" TYPE="5">
+	<PPRO TYPE="x"/>
+	<NADVERB TYPE="seldom/hardly" />
+	<VERB TYPE="x" ECLASS="neutral" />
+	<ONOUN TYPE="x" VCLASS="vclass" />
+	<QTAG>
+		<QVERB TYPE="x" PPRO="x" />
+	</QTAG>	
+</SENTENCE>

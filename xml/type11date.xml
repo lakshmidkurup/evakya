@@ -1,0 +1,7 @@
+<SENTENCE NAME="DAte,COmma" NO="1" TYPE="11">
+	<SNOUN NAME="x" TYPE="personified" />
+	<VERB NAME="x" ECLASS="positive" />
+	<ONOUN ART="a" NAME="x"  />
+	<PREP NAME="on" />
+	<DATE NAME="x" />
+</SENTENCE>

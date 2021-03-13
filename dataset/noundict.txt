@@ -1,0 +1,58 @@
+openable:box:
+openable:book:
+openable:cage:
+drawable:scenary:
+drawable:house:
+drawable:building:
+drinkable:tea:
+drinkable:water:
+drinkable:coffee:
+cookable:biriyani:
+cookable:pulav:
+cookable:kichdi:
+readable:book:
+readable:novel:
+readable:story:
+winnable:match:
+winnable:race:
+hurtable:ankle:
+hurtable:leg:
+securable:first-prize:
+securable:second-prize:
+gettable:job:
+gettable:position:
+achievable:position:
+loseable:keys:
+loseable:books:
+writable:poem:
+writeable:story:
+purchasable:furniture:
+purchasable:bicycle:
+purchasable:books:
+stayable:house:
+workplace:organisation:
+eduorg:school:
+eduorg:college:
+stayable:flat:
+answerable:question:
+personified:Mary:she:her:F:
+personified:James:he:his:M:
+personified:John:he:his:M:
+personified:Alice:she:her:F:
+conchappy::
+concneg::
+map:acronym:
+map:state:
+famous:Mother Teresa:
+famous:Ralph Waldo Emerson:
+famous:Albert Einstein:
+famous:Theodore Roosevelt:
+famous:Benjamin Franklin:
+famous:William Shakespeare:
+famous:Neil Armstrong:
+famous:Albert Einstein:
+famous:John F. Kennedy:
+famous:Eleanor Roosevelt:
+famous:Benjamin Franklin:
+famous:Diana, Princess of Wales:
+famous:Rosa Parks:

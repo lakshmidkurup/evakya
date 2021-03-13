@@ -1,0 +1,7 @@
+<SENTENCE NO="1" NAME="Adjectives-Comma " TYPE="25">
+    <DET NAME="The" />
+    <ONOUN NAME="x" VBZ="x"/>
+    <SNOUN NAME="x" TYPE="personified"/>
+    <VERB NAME="x" ECLASS="negative" />
+    <ADJLST MINCOUNT="3" MAXCOUNT="4" />
+</SENTENCE>

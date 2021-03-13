@@ -1,0 +1,15 @@
+personified:old:
+personified:silly:
+personified:restless:
+personified:nasty:
+personified:sick:
+openable:huge:
+openable:red:
+openable:small:
+drawable:beautiful:
+drawable:fantastic:
+drawable:mesmerising:
+drinkable:hot:
+drinkable:cold:
+drinkable:warm:
+

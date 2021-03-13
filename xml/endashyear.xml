@@ -1,0 +1,5 @@
+<SENTENCE TYPE="PARANTHESIS/EN_DASH" >
+    <QUOTES NAME="quotes.txt" />
+    <PERSON NAME="x" VCLASS="famous" />
+    <ONOUNP LIFETIME="x" ADJ="x" VBZ="was" ART="x" />
+</SENTENCE>

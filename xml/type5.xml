@@ -1,0 +1,30 @@
+<SENTENCE NAME="Interrogative" NO="1" TYPE="5">
+	
+	<SUBJECTNOUNPHRASE>
+				
+		<SNOUN NAME="x" TYPE="personified" />
+		<SARTICLE NAME="x" />
+		<SADJECTIVEPHRASE>
+			<SADJECTIVE NAME="x" TYPE="personified" />
+			<SCNOUN NAME="x" />		
+		</SADJECTIVEPHRASE>				
+	</SUBJECTNOUNPHRASE>
+	<VERBPHRASE>
+		<HELPINGVERB NAME="x" />
+		<VERB VNAME="open" /> 
+	</VERBPHRASE>
+	<OBJECTNOUNPHRASE1> 
+		<ONOUN CLASS="openable" NAME="x" />
+		<OARTICLE NAME="x" />
+		<OADJECTIVEPHRASE>
+			<OADJECTIVE CLASS="openable" NAME="x" />
+			<ONOUN CLASS="openable" NAME="x" />		
+		</OADJECTIVEPHRASE>
+	</OBJECTNOUNPHRASE1> 
+	
+	<QUESTIONTAG>
+		<NHELPVERB TYPE="HVERB" />
+		<PRONOUN TYPE="personified" />
+	</QUESTIONTAG>
+		
+</SENTENCE>

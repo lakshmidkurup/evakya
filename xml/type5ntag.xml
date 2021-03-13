@@ -1,0 +1,8 @@
+<SENTENCE NAME="Negative subjects like Nobody,Neither/nor,None of Us" NO="3" TYPE="5">
+	<NSUBJEG TYPE="x"/>
+	<VERB TYPE="x" CONJ="likes" PREP="to" ECLASS="neutral"  />
+	<ONOUN TYPE="x" VCLASS="verbclass"/>
+	<QTAG>
+		<QVERB TYPE="x" PPRO="x" />
+	</QTAG>	
+</SENTENCE>

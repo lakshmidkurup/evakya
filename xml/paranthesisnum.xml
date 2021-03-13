@@ -1,0 +1,10 @@
+<SENTENCE NO="1" TYPE="PARANTHESIS SENTENCES" >
+    <ADVERB NAME="Please" />
+    <VERB NAME="x" VCLASS="readable"/>
+    <ONOUNP>
+        <PREP NAME="x" />
+        <DET NAME="the" />
+        <ADJ NAME="following" />
+        <ONOUN NAME="x" TYPE="VCLASS"/>
+    </ONOUNP>
+</SENTENCE>

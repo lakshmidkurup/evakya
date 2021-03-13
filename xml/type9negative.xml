@@ -1,0 +1,27 @@
+<SENTENCE NAME="Happy interjections(Ouch,Ow,OOps)" NO="2" TYPE="9">
+	<MAINCLAUSE>
+		<SUBJECTNOUNPHRASE>
+				
+			<SNOUN NAME="x" TYPE="personified" />
+			<PRONOUN NAME="x" />
+			<SARTICLE NAME="x" />
+			<SADJECTIVEPHRASE>
+				<SADJECTIVE NAME="x" TYPE="personified" />
+				<SCNOUN NAME="x" />		
+			</SADJECTIVEPHRASE>				
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<VERB VERBBE="has" VERBNAME="x" VERBTYPE="negative" />
+		</VERBPHRASE>
+
+		<OBJECTNOUNPHRASE> 		
+			<ONOUN NAME="x" DET="x" CLASS="verbclass" />		
+		</OBJECTNOUNPHRASE> 
+
+	</MAINCLAUSE>
+	
+	<INTERJECTION>
+		<TYPE NAME="x" EMOTION="Pain" /> 			
+	</INTERJECTION>
+</SENTENCE>

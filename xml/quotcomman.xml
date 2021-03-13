@@ -1,0 +1,4 @@
+<SENTENCE No="1" TYPE="24" NAME="Quotations said by someone" >
+    <CLAUSE1 SNAME1="x" VERB="said" PREP="to" SNAME2="x" TYPE="personified" />
+    <CLAUSE2 XML="simplenegativeclass.xml" />
+</SENTENCE>

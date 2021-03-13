@@ -1,0 +1,11 @@
+<SENTENCE No="1" TYPE="24" NAME="Intoductory" >
+    <CLAUSE1>
+	<INTRO WORD="while" />
+	<SNOUN NAME="x" TYPE="personified" />
+	<VERB VBZ="was" VERBING="x" ECLASS="neutral" />
+	<ONOUN NAME="x" />
+    </CLAUSE1>	    
+    <CLAUSE2 PRO ="I" VERB="x" ONOUN="x" ECLASS="neutral" />
+    	
+	
+</SENTENCE>

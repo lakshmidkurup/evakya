@@ -1,0 +1,6 @@
+<SENTENCE TYPE="EMDASH" >
+    <ADJ NAME="Everyone" />
+    <VERB NAME="including" />
+    <SNOUN NAME="x" TYPE="personified" />
+    <SUBPHRASE HVERB="loved" DET="the" ONOUN="x" VERB="x" VCLASS="cookable" />
+</SENTENCE>

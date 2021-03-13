@@ -1,0 +1,11 @@
+<SENTENCE NAME="Rs/Comma" NO="1" TYPE="10">
+	<SNOUN NAME="x" PRO="x" TYPE="personified" />
+	<VERB TYPE="x" VCLASS="purchasable"  />
+	<AMT HOW="x" ECLASS="numeric" />
+	<ONOUNPHRASE>
+		<PREP TYPE="x" VCLASS="purchasable"/>
+		<PRO TYPE="x" />
+		<ADJ TYPE="x" />
+		<ONOUN TYPE="x" />
+	</ONOUNPHRASE>
+</SENTENCE>

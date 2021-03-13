@@ -1,0 +1,5 @@
+<SENTENCE TYPE="QUOTES" >
+    <QUOTES NAME="quotes.txt" />
+    <VERB NAME="said" />
+    <PERSON NAME="x" VCLASS="famous" />
+</SENTENCE>

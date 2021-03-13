@@ -1,0 +1,31 @@
+<SENTENCE NAME="semicolons with serial lists" NO="1" TYPE="7">
+	<MAINCLAUSE>
+		<SUBJECTNOUNPHRASE>
+			<SNOUN NAME="x" TYPE="personified" />
+			<SARTICLE NAME="x" />
+			<SADJECTIVEPHRASE>
+				<SADJECTIVE NAME="x" TYPE="personified" />
+				<SCNOUN NAME="x" />		
+			</SADJECTIVEPHRASE>				
+		</SUBJECTNOUNPHRASE>
+
+		<VERBPHRASE>
+			<HVERB HNAME="likes"/>
+			<VERB VNAME="read" />
+		</VERBPHRASE>
+
+		<OBJECTNOUNPHRASE> 
+			<ONOUN CLASS="readable" NAME="x" />
+			<OARTICLE NAME="x" />
+			<OADJECTIVEPHRASE>
+				<OADJECTIVE CLASS="readable" NAME="x" ONOUN="x" />		
+			</OADJECTIVEPHRASE>
+		</OBJECTNOUNPHRASE> 
+
+	</MAINCLAUSE>
+	
+	<SUBCLAUSE>
+		<LABEL NAME="read" ITEMS='GENLABELITEMS' PRONOUNTYPE='OBJPRONOUN' COVERB="is" CLASS="readable" />
+		
+	</SUBCLAUSE>
+</SENTENCE>

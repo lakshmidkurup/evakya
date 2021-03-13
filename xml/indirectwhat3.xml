@@ -1,0 +1,6 @@
+<SENENCE NO="1" TYPE="21" NAME="WHAT INDIRECT QUESTIONS" >
+    <INDIRECTTAG HVERB="Do" TPRO="you" AUXV="have" ADV="any" VERB="idea" />
+    <QTAG TYPE="what"/>
+    <SNOUN NAME="x" TYPE="personified" />
+    <PRESENTVERB NAME="x" VCLASS="cookable" />
+</SENENCE>

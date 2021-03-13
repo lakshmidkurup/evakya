@@ -1,0 +1,10 @@
+<SENTENCE NAME="that" NO="1" TYPE="14">
+	
+	<SNOUN NAME="x" ABBR="x" TYPE="personified" />
+	<VERB VBZ="x" />
+	<ONPHRASE>		
+		<PDET NAME="x" />
+		<ONOUN ADJ="x" NAME="x" VCLASS="eduorg" />
+	</ONPHRASE>		
+		
+</SENTENCE>	

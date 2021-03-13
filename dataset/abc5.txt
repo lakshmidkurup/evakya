@@ -1,0 +1,7 @@
+# A simple context free grammar (CFG) for English.  Rules are like:
+
+# LHS -> RHS where a RHS is a sequence of alternatives separated by
+
+# vertical bars.  Multiple rules for a LHS symbol are OK and RHS
+
+S -> NP ADVP

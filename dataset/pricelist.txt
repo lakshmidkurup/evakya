@@ -1,0 +1,5 @@
+furniture:Rs. 3,500:
+fruits:Rs. 200:
+vegetables:Rs. 400:
+bicycle:Rs. 4,300:
+books:Rs. 1,000:

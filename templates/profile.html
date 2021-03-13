@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+</head>
+
+<div class="container">
+  <h2>Profile Page</h2>
+  
+  <p>Your account details are below:</p>
+
+    
+    <table class="table table-bordered table-striped table-hover">
+    <thead>
+    	<tr>
+      		<th>Username</th>
+      		<th>EmailID</th>
+      
+       </tr>
+    </thead>
+    <tbody>
+    	<tr>
+    		<td>{{ username }}</td>
+		<td>{{ email }}</td>
+    	</tr>
+    </tbody>	
+
+
+
+<body>
+<form action="scoreview" method="post">
+
+<button name="form" type="submit" id="target" style="border-radius:10px;height:4em;width:15em;background:#F39C12";>Find the performance details</button>
+				
+
+
+<table class="table table-bordered table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Userid</th>
+      <th>Exerciseid</th>
+      <th>Category</th>
+      <th>No:of Attempts</th>
+      <th>Total Time taken</th>	
+      <th>Score</th>	
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in alldata %} 
+     	<tr>
+            <td>{{ row['userid'] }}</td>
+            <td>{{ row['exerciseid'] }}</td>
+	    <td>{{ row['category'] }}</td>	
+	    <td>{{ row['maxattempts'] }}</td>	
+	    <td>{{ row['duration'] }}</td>	
+	    <td>{{ row['score'] }}</td>	
+        </tr>
+     {% endfor %}
+    
+     
+  </tbody>
+</table>
+
+</div>
+</form>
+</body>
+</html>

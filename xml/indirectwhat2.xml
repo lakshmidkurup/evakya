@@ -1,0 +1,7 @@
+<SENTENCE NO="1" TYPE="21i" NAME="WHERE INDIRECT QUESTIONS" >
+    <INDIRECTTAG HVERB="Could" TPRO="you" VERB="tell" FPRO="me" />
+    <QTAG TYPE="what"/>
+    <SNOUN NAME="x" TYPE="personified" />
+    <PRESENTVERB NAME="x" VCLASS="readable" />
+    <ADVT TYPE="everyday"/>
+</SENTENCE>

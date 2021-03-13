@@ -1,0 +1,25 @@
+	<SENTENCE_STRUCTURE>
+	<SENTENCE NO="1" TYPE="1">
+                <NAME>SIMPLE SENTENCE WITH SVO+adj</NAME>
+		<MAIN>   
+			<SUBJECT>
+				<MAIN_SUBJECT>
+					<NOUN NAME="x" TYPE="personified">
+					</NOUN>
+				</MAIN_SUBJECT>
+			</SUBJECT>
+			<PREDICATE>
+                                <VERB>
+				     <VERBWORDMAIN TYPE="pick"></VERBWORDMAIN>
+				</VERB>     
+					
+				<MAIN_OBJECT> 
+					<NOUN TYPE="any"> 
+					<ADJECTIVE TYPE="any"></ADJECTIVE>
+                                        </NOUN>
+				</MAIN_OBJECT>
+							
+		        </PREDICATE>
+		</MAIN>
+	</SENTENCE>
+	

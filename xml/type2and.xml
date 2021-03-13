@@ -1,0 +1,32 @@
+<SENTENCE NAME="COMPOUND" NO="1" TYPE="2">
+	<MAINCLAUSE>
+		<SUBJECTNOUNPHRASE>
+				
+			<SNOUN NAME="x" TYPE="personified" />
+			<SARTICLE NAME="x" />
+			<SADJECTIVEPHRASE>
+				<SADJECTIVE NAME="x" TYPE="personified" />
+				<SCNOUN NAME="x" />		
+			</SADJECTIVEPHRASE>				
+		</SUBJECTNOUNPHRASE>
+		<VERBPHRASE>
+			<HELPINGVERB NAME="x" />
+			<VERB VNAME="open" /> 
+		</VERBPHRASE>
+		<OBJECTNOUNPHRASE> 
+			<ONOUN CLASS="openable" NAME="x" />
+			<OARTICLE NAME="x" />
+			<OADJECTIVEPHRASE>
+				<OADJECTIVE CLASS="openable" NAME="x" />
+				<ONOUN CLASS="openable" NAME="x" />		
+			</OADJECTIVEPHRASE>
+		</OBJECTNOUNPHRASE> 
+	</MAINCLAUSE>
+	<COORDCONJ NAME="and" />
+	<SUBCLAUSE>
+		<HELPINGVERB NAME="x" />
+		<COVERB VNAME="lift" /> 
+		<PRONOUN CLASS="openable" NAME="x" />
+	</SUBCLAUSE>
+		
+</SENTENCE>

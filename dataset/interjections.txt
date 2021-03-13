@@ -1,0 +1,16 @@
+positive:Happy:Yikes:
+positive:Happy:Hurray:
+positive:Happy:Yippee:
+negative:Pain:Oops:
+negative:Pain:Ouch:
+negative:Pain:Ow:
+negative:Pain:Oh:
+negative:Pain:Alas:
+neutral:Realisation:Ah:
+neutral:Realisation:Aha:
+neutral:Doubt:er:
+neutral:Doubt:umm:
+neutral:Doubt:hmm:
+neutral:Surprise:eh:
+neutral:Surprise:eek:
+neutral:Surprise:yikes:

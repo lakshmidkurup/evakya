@@ -1,0 +1,15 @@
+<SENTENCE NAME="Office Address" NO="5" TYPE="12">
+	<MAIN>
+		<SNOUN NAME="x" TYPE="personified" />
+		<VERB NAME="x" ECLASS="oaddress" />
+		<ONOUNP PREP="x" TYPE="x" />
+	</MAIN>
+	<SUB1>
+		<NOUNPHRASE DET="x" SNAME="name" PREP="x" OTYPE="x" ONAME="x" VBZ="is" />
+	</SUB1>
+	<SUB2>
+		<SNOUN DET="x" SNAME="address" />
+		<VERB VBZ="is" />
+		<ADDRESS NAME="x" LANDMARK="x" CITY="x" STATE="x" PINCODE="x" />
+	</SUB2>
+</SENTENCE>

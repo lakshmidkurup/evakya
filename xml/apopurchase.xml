@@ -1,0 +1,6 @@
+<SENTENCE TYPE="APOSTROPHE" >
+    <DEMONSTRATIVEPRO> TYPE="x"</DEMONSTRATIVEPRO>
+    <VBZ NAME="x" />
+    <SNOUN NAME="x" TYPE="personified"/>
+    <ONOUN NAME="x" VCLASS="purchasable" />
+</SENTENCE>

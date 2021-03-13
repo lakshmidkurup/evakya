@@ -1,0 +1,6 @@
+<SENTENCE NAME="Doubt(er/um..in the mid of the sentence)" NO="5" TYPE="9">
+	<SNOUN NAME="x" TYPE="personified" />
+	<VERB NAME="x" ECLASS="neutral" />
+	<INTERJECTION NAME="x" EMOTION="Doubt" />
+	<ONOUN NAME="x" ART="x" CLASS="verbclass" />		
+</SENTENCE>
